@@ -40,6 +40,12 @@ Outside of finance, I follow physics and macroeconomics closely, and I'm drawn t
 **[portpy-quant](https://github.com/Arthur-Faugeron/PortPy)**
 A Python package for portfolio analytics, built to make portfolio construction, risk analysis, and performance attribution more accessible and transparent.
 
+**[One Company A Day](https://arthur-faugeron.github.io/OCAD/)**
+A library of daily reports of companies listed in Chile and around the world for people to learn about the company, know how it is doing, and hopefully giving some insights about investment opportunities.
+
+**[Literature Review](https://arthur-faugeron.github.io/literature-review/)**
+A library of daily macro-financial papers reviews to help people understand, to enrich with knowledge, and to give friendly access to macro-financial literature.
+
 ---
 
 ### Tech Stack
