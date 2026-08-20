@@ -62,13 +62,6 @@ A library of daily macro-financial paper reviews, aimed at making academic macro
   <img src="https://img.shields.io/badge/mypy-checked-2A6DB2?style=flat-square" />
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Faugeron&hide_border=true" height="165"/>
-</p>
 
 ---
 
